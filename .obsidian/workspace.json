@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6e314411bb31599d",
+        "id": "363db57b5ca7a877",
         "type": "tabs",
         "children": [
           {
-            "id": "15f3795781e84ae2",
+            "id": "740551ca6c9fb196",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/2026-05-13.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-05-13"
             }
           }
         ]
@@ -176,36 +180,44 @@
       "bases:新建数据库": false
     }
   },
-  "active": "15f3795781e84ae2",
+  "active": "740551ca6c9fb196",
   "lastOpenFiles": [
-    "02_Reading/阅读笔记说明.md",
-    "02_Reading",
-    "01_Daily/Templates/日报模板.md",
-    "01_Daily/logs/随手记模板.md",
-    "01_Daily/logs/readme.md",
+    "00_Inbox/2026-05-12.md",
+    "00_Inbox/2026-05-13.md",
+    "04_Projects/zyzj/代码分析/06-运维与排障指南.md",
+    "04_Projects/zyzj/代码分析/05-业务系统详解.md",
+    "04_Projects/zyzj/代码分析/04-用户与状态管理.md",
+    "04_Projects/zyzj/代码分析/03-配置与数据体系.md",
+    "04_Projects/zyzj/代码分析/02-通信与网络机制.md",
+    "04_Projects/zyzj/代码分析/01-架构与服务体系.md",
     "01_Daily/计划总览.md",
     "01_Daily/每日笔记说明.md",
-    "01_Daily/Templates",
-    "01_Daily/readme.md",
-    "01_Daily/logs",
-    "01_Daily",
-    "00_Inbox/收集箱说明.md",
-    "00_Inbox",
-    "启动疯聊AI.bat",
-    "CLAUDE.md",
-    "06_Assets/资源库说明.md",
-    "06_Assets",
-    "05_Templates/模板库说明.md",
-    "05_Templates",
+    "01_Daily/计划总览.md.tmp.35256.1778637615025",
+    "01_Daily/daily/2026-05/2026-05-12.md",
+    "01_Daily/daily/2026-05/2026-05-12.md.tmp.35256.1778635331463",
+    "01_Daily/daily/2026-05",
+    "01_Daily/daily",
+    "04_Projects/zyzj/代码分析/00-索引.md",
+    "04_Projects/zyzj/代码分析/07-快速上手指南.md",
+    "04_Projects/zyzj/代码分析/08-核心流程图汇总.md",
+    "04_Projects/zyzj/代码分析/卓越之剑OPUS项目整体分析结论.md",
+    "04_Projects/zyzj/代码分析/综合版-卓越之剑OPUS分析结论.md",
+    "screenshot-1778069347063.png",
+    "04_Projects/zyzj/关键资料信息/服务器信息.md",
+    "01_Daily/logs/readme.md",
+    "01_Daily/logs/随手记模板.md",
+    "01_Daily/Templates/日报模板.md",
+    "WorldServer_xtree194_异常代码与场景总结.md",
+    "04_Projects/zyzj/关键资料信息",
+    "04_Projects/mir1/知识沉淀/各种公式.md",
+    "obsidianAI.bat",
+    "04_Projects/mir1/知识沉淀/项目隐性知识手册_20260502.md",
     "04_Projects/项目资料说明.md",
-    "04_Projects",
-    "03_Knowledge/编程/编程.md",
-    "03_Knowledge/大模型/高效微调.md",
-    "03_Knowledge/大模型/全量微调.md",
-    "03_Knowledge/大模型/主题地图.md",
-    "03_Knowledge/编程",
-    "03_Knowledge/主题知识说明.md",
-    "01_Daily/logs/未命名.md",
-    "未命名.md"
+    "00_Inbox/收集箱说明.md",
+    "2026-05-06.md",
+    "04_Projects/mir1/知识沉淀",
+    "04_Projects/mir1",
+    "未命名",
+    "02_Reading"
   ]
 }
